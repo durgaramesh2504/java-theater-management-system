@@ -3,7 +3,7 @@ Project Description
 
 This project is a simple Theater Management System developed using Java.
 It allows users to view movies, book tickets, and manage theater information using a console-based application.
-
+ 
 Features 
 
 Display available movies
